@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'gio_api'
+
+Gio::HostingApiCli.start(ARGV)
